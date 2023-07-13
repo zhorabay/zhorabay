@@ -9,7 +9,7 @@ I'm a passionate developer with an insatiable curiosity for all things tech. My 
 
 ## 💻 Tech Stack:
 Here is the list of technologies that I enjoy working with:
-![JavaScript Icon](path/to/javascript-icon.svg)
+<i class="fa-brands fa-js"></i>
 ![Bootstrap Icon](path/to/bootstrap-icon.svg)
 ![HTML Icon](path/to/html-icon.svg)
 ![CSS Icon](path/to/css-icon.svg)
