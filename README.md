@@ -1,5 +1,9 @@
 <h1 align="center">Hey there 👋 Welcome to my GitHub account.</h1>
 
+<hr>
+<p align = "center">Visitor Count</p>
+<p align = "center"><img src="https://profile-counter.glitch.me/zhorabay/count.svg" /></p>
+
 ## ⚜ About Me:
 I'm Assem, a passionate developer with an insatiable curiosity for all things tech. My journey in the world of programming started with a simple "Hello, World!" and has evolved into a deep love for crafting elegant solutions to complex problems. Whether it's web development, machine learning, or creating quirky hacks, I enjoy exploring diverse domains and expanding my skill set.
 
@@ -13,10 +17,10 @@ Here is the list of technologies that I enjoy working with:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhorabay&show_icons=true&locale=en&layout=compact" alt="zhorabay" /></p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhorabay&theme=radical)
 
 ## 🤝 Collaborations:
 I'm always excited to collaborate with fellow developers and enthusiasts! If you have an interesting project in mind or would like to join forces on an existing one, I'm open to collaborations. Together, we can combine our skills, knowledge, and creativity to build something remarkable.
 
 ## ✨ Acknowledgments:
 I appreciate you taking the time to explore my GitHub profile. I hope you found something interesting, inspiring, or useful during your visit. Feel free to star any repositories you find intriguing and share them with others who might benefit from them.
-
