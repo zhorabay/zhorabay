@@ -1,9 +1,10 @@
-<h1 align="center">Hey there 👋 Welcome to my GitHub account.</h1>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<h1 align="center"> </>Hey there 👋</> </h1>
 
 # ⚜ About Me:
-I'm Assem, a passionate developer with an insatiable curiosity for all things tech. My journey in the world of programming started with a simple "Hello, World!" and has evolved into a deep love for crafting elegant solutions to complex problems. Whether it's web development, machine learning, or creating quirky hacks, I enjoy exploring diverse domains and expanding my skill set.
+- I'm Assem,
+- a passionate developer with an insatiable curiosity for all things tech.
+- My journey in the world of programming started with a simple "Hello, World!" and has evolved into a deep love for crafting elegant solutions to complex problems.
+- Whether it's web development, machine learning, or creating quirky hacks, I enjoy exploring diverse domains and expanding my skill set.
 
 ### 🕯 I’m currently learning **Data Structures in JavaScript**
 
