@@ -6,7 +6,7 @@
 - My journey in the world of programming started with a simple "Hello, World!" and has evolved into a deep love for crafting elegant solutions to complex problems.
 - Whether it's web development, machine learning, or creating quirky hacks, I enjoy exploring diverse domains and expanding my skill set.
 
-### 🕯 I’m currently learning **Data Structures in JavaScript**
+### 🕯 I’m currently learning **Ruby on Rails**
 
 ### 📁 All of my projects are available at Personal Portfolio
 
