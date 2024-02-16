@@ -4,9 +4,7 @@
 - I'm Assem,
 - a passionate developer with an insatiable curiosity for all things tech.
 - My journey in the world of programming started with a simple "Hello, World!" and has evolved into a deep love for crafting elegant solutions to complex problems.
-- Whether it's web development, machine learning, or creating quirky hacks, I enjoy exploring diverse domains and expanding my skill set.
-
-### 🕯 I’m currently learning **Ruby on Rails**
+- I enjoy exploring diverse domains and expanding my skill set.
 
 ### 📁 All of my projects are available at Personal Portfolio
 
