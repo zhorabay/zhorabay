@@ -19,7 +19,9 @@ Here is the list of technologies that I enjoy working with:<br/>
 
 
 # 🤝 Collaborations:
-I'm always excited to collaborate with fellow developers and enthusiasts! If you have an interesting project in mind or would like to join forces on an existing one, I'm open to collaborations. Together, we can combine our skills, knowledge, and creativity to build something remarkable.
+I'm always excited to collaborate with fellow developers and enthusiasts! If you have an interesting project in mind or would like to join forces on an existing one, I'm open to collaborations. 
+
+Together, we can combine our skills, knowledge, and creativity to build something remarkable.
 
 # ✨ Acknowledgments:
 I appreciate you taking the time to explore my GitHub profile. I hope you found something interesting, inspiring, or useful during your visit. Feel free to **STAR** any repositories you find intriguing and **SHARE** them with others who might benefit from them.
